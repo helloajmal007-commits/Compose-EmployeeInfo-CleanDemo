@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Clean-Demo"
+rootProject.name = "Compose-EmployeeInfo-CleanDemo"
 include(":app")
