@@ -1,8 +1,6 @@
-# Compose-EmployeeInfo-CleanDemo
+# 👨‍💼 Employee Information Demo App
 
-# 🚀 Jetpack Compose Clean Architecture Demo
-
-A modern **Android demo app** built with **Kotlin** and **Jetpack Compose**, following **Clean Architecture** principles. This project is designed for **beginners and fresh developers** to learn how to build scalable, maintainable, and production-ready Android applications.
+A modern **Employee Information Demo App** built with **Kotlin** and **Jetpack Compose**, following **Clean Architecture** principles. This project is designed for **beginners and fresh developers** to learn how to build scalable, maintainable, and production-ready Android applications.
 
 ---
 
@@ -10,6 +8,7 @@ A modern **Android demo app** built with **Kotlin** and **Jetpack Compose**, fol
 
 * 🧱 Clean Architecture (Presentation, Domain, Data layers)
 * 🎯 MVVM (Model-View-ViewModel) pattern
+* 👨‍💼 Manage Employee Information (Add, Edit, View)
 * ⚡ Jetpack Compose UI (Modern declarative UI)
 * 🔄 State Management with Kotlin Flow / StateFlow
 * 🗂️ Simple & scalable project structure
@@ -42,6 +41,7 @@ This demo is perfect for:
 
 ✔ Beginner-friendly code structure
 ✔ Real-world architecture implementation
+✔ Employee CRUD functionality
 ✔ Easy to understand & extend
 ✔ Portfolio-ready project
 
@@ -49,7 +49,7 @@ This demo is perfect for:
 
 ## 📌 Use Case
 
-This project demonstrates how to structure a professional Android app using modern tools and best practices, making it ideal for learning and showcasing your development skills.
+This project demonstrates how to build an **Employee Information system Demo** using modern Android development tools and best practices, making it ideal for learning and showcasing your development skills.
 
 ---
 
